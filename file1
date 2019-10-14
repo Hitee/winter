@@ -1,4 +1,5 @@
 test1
+<<<<<<< HEAD
 ddsg
 dssdf
 sffddd
@@ -49,4 +50,15 @@ wl
 :wq
 :wl
 --insert--
+=======
+dfds
+dfsf
+a
+s
+d
+d
+f
+f
+g
+>>>>>>> 1f6dcfe6e3ac7e0327e8f7f4a66acdc5f706ac27
 
